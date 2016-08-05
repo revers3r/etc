@@ -1,0 +1,15 @@
+{	
+        "snapshot" : {
+		"url" : "revers3r.tistory.com",
+		"userid" : "rev",
+		"passwd" : "1234"
+	},
+	"release" : {
+		"url" : "revers3r.tistory.com",
+		"userid" : "rev",
+		"passwd" : "5678"
+	},
+	"component" : {
+		"url" : "revers3r.tistory.com"
+	}
+}
